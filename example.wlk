@@ -5,6 +5,8 @@ class Personaje  {
   var rol // guerrero  cazador  brujo
   var inteligencia
 
+ // es un com de prueba
+ 
   method fuerza() 
   method inteligencia() 
   method rol()
